@@ -1,0 +1,23 @@
+Tina Gui
+Address: Str# Road Name, City, State, Zip
+Phone: 123-456-7890
+Email: tinagui2010@gmail.com
+
+
+
+Dear #profName,
+
+I am writing to apply for the #positionTitle position in the Department of #Department at #Institute. I am completing my Ph.D. in ABC from the Department of DEF at the XYZ University.
+
+... personal statement here 
+
+If you anticipate a position becoming available, I would greatly appreciate an opportunity to
+further discuss my research interests with you. I have enclosed my CV, research and teaching statement, and representative published papers. 
+
+
+Thank you in advance for your consideration of my application.
+
+Sincerely,
+Tina Gui
+Title
+Affiliation
